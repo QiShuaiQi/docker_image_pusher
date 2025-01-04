@@ -9,4 +9,4 @@ rabbitmq
 logstash
 kibana
 mongo
-gogs
+gogs/gogs
