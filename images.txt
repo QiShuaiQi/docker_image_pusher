@@ -1,3 +1,4 @@
 redis
 mysql
 minio/minio
+mysql:5.7
