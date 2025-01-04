@@ -3,3 +3,4 @@ mysql
 minio/minio
 mysql:5.7
 nacos/nacos-server:v2.1.0
+elasticsearch:7.17.3
