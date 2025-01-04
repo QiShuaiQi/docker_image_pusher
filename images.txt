@@ -10,3 +10,4 @@ logstash
 kibana
 mongo
 gogs/gogs
+jenkins/jenkins:lts
