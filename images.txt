@@ -2,3 +2,4 @@ redis
 mysql
 minio/minio
 mysql:5.7
+nacos/nacos-server:v2.1.0
