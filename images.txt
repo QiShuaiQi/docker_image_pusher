@@ -10,5 +10,4 @@ logstash
 kibana
 mongo
 gogs/gogs
-jenkins/jenkins:lts
-jenkins:2.387.2
+jenkins/jenkins:2.452.1
